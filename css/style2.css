@@ -1,4 +1,4 @@
-body {font-family: Montserrat, Helvetica Neue, sans-serif; margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #333; overflow: auto;
+body {font-family: Montserrat, Helvetica Neue, sans-serif; margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #000099; overflow: auto;
 background: #ccccff; /* Old browsers */
 background: -moz-linear-gradient(-45deg,  #ccccff 0%, ##ccccff 50%, #ffccff 50%, #ffccff 100%); /* FF3.6+ */
 background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,##ccccff), color-stop(50%,#ccccff), color-stop(50%,#ffccff), color-stop(100%,#ffccff)); /* Chrome,Safari4+ */
